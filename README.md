@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sxwxbxr](https://github.com/sxwxbxr)
+- 👨‍💻 All of my projects are available in the Projects Tab.
 
 - 📫 How to reach me **swbr.business@proton.me**
 
