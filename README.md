@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxwxbxr" alt="sxwxbxr" /></a> </p>
 
-- 🔭 I’m currently working on **a Webscraper**
+- 🔭 I’m currently working on **a mobile app**
 
-- 🌱 I’m currently learning **App Design / Development**
+- 🌱 I’m currently learning **Game Development and Software Security**
 
 - 👨‍💻 All of my projects are available in the Projects Tab.
 
