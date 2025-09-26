@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxwxbxr&theme=dracula" alt="sxwxbxr" /></a> </p>
 
-- 🔭 I’m currently working on **a mobile app and a finance dashboard**
+- 🔭 I’m currently working on **SaaS Solution for a company and an offline-first finance dashboard**
 
 - 🌱 I’m currently learning **Software Security**
 
