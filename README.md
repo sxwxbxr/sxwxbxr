@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxwxbxr&theme=dracula" alt="sxwxbxr" /></a> </p>
 
-- 🔭 I’m currently working on **SaaS Solution for a company and an offline-first finance dashboard**
+- 🔭 I’m currently working on **a SaaS Solution for a company and a Time-Management Software**
 
 - 🌱 I’m currently learning **Software Security**
 
 - 👨‍💻 All of my projects are available in the Projects Tab.
 
-- 📫 How to reach me **swbr.business@proton.me**
+- 📫 How to reach me **info@sweber.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
