@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxwxbxr&theme=dracula" alt="sxwxbxr" /></a> </p>
 
-- 🔭 I’m currently working on **a SaaS Solution for a company and a Time-Management Software**
+- 🔭 I’m currently working on **FLowlyChat as well as the Enterprise Solution of Chr0no**
 
 - 🌱 I’m currently learning **Software Security**
 
