@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seya Weber</h1>
-<h3 align="center">A passionate but fairly new developer from switzerland</h3>
+<h3 align="center">A passionate developer from switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sxwxbxr&label=Profile%20views&color=0e75b6&style=flat" alt="sxwxbxr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxwxbxr&theme=dracula" alt="sxwxbxr" /></a> </p>
 
-- 🔭 I’m currently working on **FLowlyChat as well as the Enterprise Solution of Chr0no**
+- 🔭 I’m currently working on **FlowlyChat**
 
 - 🌱 I’m currently learning **Software Security**
-
-- 👨‍💻 All of my projects are available in the Projects Tab.
 
 - 📫 How to reach me **info@sweber.dev**
 
@@ -17,9 +14,9 @@
 <p align="left">
 <a href="https://dev.to/sxwxbxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sxwxbxr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24698848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24698848" height="30" width="40" /></a>
-<a href="https://instagram.com/sxwxbxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sxwxbxr" height="30" width="40" /></a>
+<a href="https://instagram.com/sweber.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sxwxbxr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/apaxcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apaxcs" height="30" width="40" /></a>
-<a href="https://discord.gg/apaxcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="apaxcs" height="30" width="40" /></a>
+<a href="https://discord.gg/apaxqt." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="apaxcs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
